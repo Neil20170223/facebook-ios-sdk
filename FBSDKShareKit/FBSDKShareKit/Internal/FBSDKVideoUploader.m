@@ -25,7 +25,7 @@
 #if defined FBSDK_SWIFT_PACKAGE
  #import <FBSDKShareKit.h>
 #else
- #import <FBSDKShareKit/FBSDKShareKit.h>
+ #import <FBSDKShareKit.h>
 #endif
 
 #import "FBSDKShareDefines.h"
